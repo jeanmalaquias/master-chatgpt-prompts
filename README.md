@@ -54,7 +54,204 @@ Explore prompts that help with:
 
 ## 💬 Prompt Usage Example
 
-### ✅ Create a modern function
+# 📚 Full Prompt Collection for Developers
+
+This markdown file contains all categorized prompts for developers using ChatGPT.
+
+---
+
+## 🔧 Coding Techniques & Optimization
+
+### Refactor Code to ES6
 ```text
-Refactor the following function to follow ES6 syntax, improve readability, and follow best practices:
+Refactor the following code to modern ES6 syntax with best practices:
+
+[INSERT CODE HERE]
+```
+
+### Split Long Functions
+```text
+Refactor the following function into multiple smaller functions to improve readability:
+
+[INSERT CODE HERE]
+```
+
+### Improve Performance
+```text
+Optimize the following code for performance:
+
+[INSERT CODE HERE]
+```
+
+### Translate Code
+```text
+Convert the following code to Rust:
+
+[INSERT CODE HERE]
+```
+
+---
+
+## 🧠 Multi-Step AI Workflows (Prompt Chaining)
+
+### Step 1: Modernize Code
+```text
+Rewrite this function using best practices and modern syntax:
+
+[INSERT CODE HERE]
+```
+
+### Step 2: Review for Security & Logic
+```text
+Check this function for logical flaws or security concerns:
+
+[INSERT CODE HERE]
+```
+
+### Step 3: Validate the Recommendations
+```text
+Review your recommendations. What did you miss or get wrong?
+```
+
+### Step 4: Implement Final Version
+```text
+Rewrite the code using the validated feedback:
+
+[INSERT CODE HERE]
+```
+
+### Step 5: Create Unit Tests
+```text
+Write two unit tests for the function above—one pass and one fail:
+
+[INSERT CODE HERE]
+```
+
+---
+
+## 📚 Explain & Document
+
+### Explain Like I’m 5
+```text
+Explain this code to a non-technical person with Markdown formatting:
+
+[INSERT CODE HERE]
+```
+
+### Add Comments to Code
+```text
+Add detailed comments to the following code:
+
+[INSERT CODE HERE]
+```
+
+### Mermaid Architecture Diagram
+```text
+Create a Mermaid diagram for:
+- React frontend
+- FastAPI backend
+- PostgreSQL database
+```
+
+### Mermaid ER Diagram
+```text
+Create a Mermaid ER diagram for these classes:
+
+[CLASS DEFINITIONS]
+```
+
+---
+
+## 🔁 Code Generation
+
+### Create a Function
+```text
+Write a function that finds users by email or username. Stack: Go, PostgreSQL.
+```
+
+### Dockerfile Generation
+```text
+Create a Dockerfile for a [NODE.JS / FASTAPI / .NET] project.
+```
+
+### Generate Regex
+```text
+Write a regex pattern that matches [PATTERN]
+```
+
+### Create Class from JSON
+```text
+Generate a C# class from this JSON:
+
+[INSERT JSON]
+```
+
+---
+
+## 🐞 Code Review
+
+### Suggest Improvements
+```text
+Suggest improvements for the code below:
+
+[INSERT CODE HERE]
+```
+
+### Fix Errors
+```text
+Debug this error: [INSERT ERROR]
+Code: [INSERT CODE]
+```
+
+---
+
+## 📈 Dev Product Growth
+
+### Generate Innovative Product Ideas
+```text
+Generate unique product ideas for the AI automation market.
+```
+
+### Unique Value Proposition
+```text
+Help define a unique value proposition for this SaaS tool:
+
+[PRODUCT DESCRIPTION]
+```
+
+### Create Referral Program
+```text
+Design a referral program that motivates users to invite others.
+```
+
+### Upsell & Cross-Sell Strategy
+```text
+Suggest an upsell and cross-sell strategy for a SaaS analytics product.
+```
+
+### Content Marketing Strategy
+```text
+Create a content marketing plan for a dev-focused tool to drive leads.
+```
+
+---
+
+## 🧠 Pro Tip Prompts
+
+### Reflection Prompt
+```text
+Review your previous answer. What was incorrect or missing?
+```
+
+### Prompt Rewriting for Richer Output
+```text
+Rewrite the following prompt to sound more detailed and inspiring:
+
+[INSERT PROMPT]
+```
+
+---
+
+Contributions welcome! PRs and new prompts encouraged.
+
 
